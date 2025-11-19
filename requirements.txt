@@ -1,0 +1,17 @@
+streamlit
+google-cloud-vision
+google-generativeai
+Pillow
+python-dotenv
+google-api-python-client
+opencv-python
+chromadb
+plotly
+requests
+streamlit-authenticator
+sqlalchemy
+python-multipart
+pandas
+datetime
+streamlit-option-menu
+plotly-express
